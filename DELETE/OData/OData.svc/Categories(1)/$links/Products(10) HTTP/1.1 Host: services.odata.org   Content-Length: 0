@@ -1,0 +1,4 @@
+DELETE /OData/OData.svc/Categories(1)/$links/Products(10) HTTP/1.1 Host: services.odata.org
+  Content-Length: 0
+
+
